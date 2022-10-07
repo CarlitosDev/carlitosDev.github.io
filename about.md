@@ -4,18 +4,14 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Spending my days between my great family, my job and my everlasting PhD thesis.</p>
 
-<p>I will be adding more info during 2020.</p>
+
+<p>I am a Data Scientist (PhD in ML) with a career spanning retail, finance, advertisement, marketing, education and research. For the last 12 years, I have worked in the UK on international projects from inception to production liaising with stakeholders, product owners, software engineers and other data scientists. Prior to that I worked in Spain in a couple of universities and other bits and bobs as a Telecommunications Engineer.</p>
 
 <h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>Git</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-</ul>
+<!-- <ul class="skill-list">
+</ul> -->
 
 <h2>Projects</h2>
 

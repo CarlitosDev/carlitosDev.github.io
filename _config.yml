@@ -1,14 +1,14 @@
 # main text of home
 name: Carlos Aguilar
-bio: Passionate about coffee, wine and ML
+bio: Passionate about many things including coffee, wine and ML.
 
 # twitter summary info
-description: Some thoughts about data science
+description: Some thoughts and ideas on data science
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/carlos.jpg
+picture: assets/images/workstation.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -55,7 +55,7 @@ email: carlos.aguilar.palacios@gmail.com
 authors:
     carlitosDev:
         name: Carlos Aguilar
-        bio: Passionate about coffee, wine and ML
+        bio: Passionate about many things including coffee, wine and ML.
         external-image: false
         picture: assets/images/carlos.jpg
         twitter: notyet
